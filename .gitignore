@@ -1,0 +1,12 @@
+cache/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+today_signal.png
+cumulative_returns.png
+*.csv
+.venv/
+venv/
+.env
+test_chart.png
